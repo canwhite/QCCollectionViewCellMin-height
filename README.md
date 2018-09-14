@@ -1,0 +1,2 @@
+# QCCollectionViewCellMin-height
+写了一个CollectionViewCell的高度适应
